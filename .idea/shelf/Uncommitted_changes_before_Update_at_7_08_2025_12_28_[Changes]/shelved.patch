@@ -1,0 +1,19 @@
+Index: capitulo3.ipynb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/capitulo3.ipynb b/capitulo3.ipynb
+new file mode 100644
+--- /dev/null	(date 1754587466554)
++++ b/capitulo3.ipynb	(date 1754587466554)
+@@ -0,0 +1,9 @@
++#%%
++import numpy as np
++import matplotlib.pyplot as plt
++from mpl_toolkits.mplot3d import Axes3D
++#%%
++print("Hello world!")
++#%%
++print("Hello world!")
++#%%

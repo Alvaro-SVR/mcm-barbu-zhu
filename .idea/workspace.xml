@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd2bbc87-80bc-4593-b7d1-9659c4c50604" name="Changes" comment="capitulo 3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Alvaro-SVR&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Alvaro-SVR/mcm-barbu-zhu.git&quot;,
+    &quot;accountId&quot;: &quot;2f107d3d-feaa-4c34-8fc0-f279f604ee56&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30NAikm76nGuRatNEyDNfN2k3oT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/PyCharmMiscProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Jupyter&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\PyCharmMiscProject" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd2bbc87-80bc-4593-b7d1-9659c4c50604" name="Changes" comment="" />
+      <created>1753457787174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753457787174</updated>
+      <workItem from="1753457788928" duration="10912000" />
+      <workItem from="1753495993738" duration="953000" />
+      <workItem from="1753497262437" duration="11704000" />
+      <workItem from="1753593899242" duration="10141000" />
+      <workItem from="1754241226760" duration="25779000" />
+      <workItem from="1754456290172" duration="51000" />
+      <workItem from="1754586426336" duration="354000" />
+      <workItem from="1754586844023" duration="643000" />
+      <workItem from="1754587504220" duration="313000" />
+      <workItem from="1754587828289" duration="12136000" />
+      <workItem from="1754696491412" duration="450000" />
+    </task>
+    <task id="LOCAL-00001" summary="Guardado 1">
+      <option name="closed" value="true" />
+      <created>1753501616259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753501616259</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modelo basico g1, pero no sale lo esperado">
+      <option name="closed" value="true" />
+      <created>1753510988276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753510988276</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Sampleando para camino (0,0) to (n,n)">
+      <option name="closed" value="true" />
+      <created>1753597838737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753597838737</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sampleando para g2 (no entiendo de donde saca negativos)">
+      <option name="closed" value="true" />
+      <created>1753600573971</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753600573971</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Falta arreglar los ESS">
+      <option name="closed" value="true" />
+      <created>1754281793031</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754281793031</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cap3">
+      <option name="closed" value="true" />
+      <created>1754587196514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754587196514</updated>
+    </task>
+    <task id="LOCAL-00007" summary="capitulo 3">
+      <option name="closed" value="true" />
+      <created>1754587846717</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754587846717</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Guardado 1" />
+    <MESSAGE value="Modelo basico g1, pero no sale lo esperado" />
+    <MESSAGE value="Sampleando para camino (0,0) to (n,n)" />
+    <MESSAGE value="Sampleando para g2 (no entiendo de donde saca negativos)" />
+    <MESSAGE value="Falta arreglar los ESS" />
+    <MESSAGE value="cap3" />
+    <MESSAGE value="capitulo 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="capitulo 3" />
+  </component>
+</project>
